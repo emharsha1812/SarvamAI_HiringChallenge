@@ -1,0 +1,10 @@
+# Ignore marathi_audio and marathi_text folders
+marathi_audio/
+marathi_text/
+organized_files/
+FinalModel/
+
+# Ignore all .mp3 files
+*.mp3
+*.mp4
+
